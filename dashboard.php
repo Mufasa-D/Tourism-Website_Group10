@@ -21,7 +21,7 @@
         <div class="container nav-flex">
             <div class="logo">SEE:<span>Ghana</span></div>
             <ul class="nav-links">
-                <li><a href="index.php">Home</a></li>
+                <li><a href="index.htm">Home</a></li>
                 <li><a href="services.php">Services</a></li>
                 <li><a href="#"  style="border-bottom: 3px solid #333;">Check Status</a></li>
                 <li><a href="contacts.htm">Contact</a></li>
@@ -121,4 +121,5 @@
 <?php 
     session_destroy();
     exit();
+
 ?>
